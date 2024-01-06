@@ -1,0 +1,21 @@
+{
+  "name": "josh/howsy-code-challenge",
+  "description": "A small coding challenge",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "Test\\": "test/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Josh Halpin",
+      "email": "josh-halpin@hotmail.co.uk"
+    }
+  ],
+  "require-dev": {
+    "phpstan/phpstan": "^1.10",
+    "phpunit/phpunit": "^10"
+  }
+}

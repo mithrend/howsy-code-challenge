@@ -1,0 +1,22 @@
+[
+  {
+    "code": "P001",
+    "name": "Photography",
+    "price": 20000
+  },
+  {
+    "code": "P002",
+    "name": "Floorplan",
+    "price": 10000
+  },
+  {
+    "code": "P003",
+    "name": "Gas Certificate",
+    "price": 8350
+  },
+  {
+    "code": "P004",
+    "name": "EICR Certificate",
+    "price": 5100
+  }
+]
